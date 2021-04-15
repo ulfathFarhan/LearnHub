@@ -1,0 +1,11 @@
+#search {
+  width: 250px;
+  height: 3rem;
+  border-bottom: 5px solid #fa0505;
+  border-top: 3px solid #fa0505;
+  border-right: 2px solid #fa0505;
+  border-left: 2px solid #fa0505;
+  margin-top: 1vh;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+}
